@@ -1,6 +1,9 @@
 # Start your image with a node base image
 FROM node:18-alpine
 
+# start your image with a node 
+
+
 # The /app directory should act as the main application directory
 WORKDIR /app
 
